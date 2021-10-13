@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toast</string>
+
+    <string name="toast_message">Ouvrir une 2éme activité</string>
+
+
+</resources>
